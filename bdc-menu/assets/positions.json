@@ -1,0 +1,50 @@
+{
+  "dance": {
+    "left": 5.543,
+    "top": 12.565,
+    "width": 43.237,
+    "height": 21.056
+  },
+  "flirt": {
+    "left": 49.889,
+    "top": 12.622,
+    "width": 43.792,
+    "height": 20.998
+  },
+  "digits": {
+    "left": 5.543,
+    "top": 34.251,
+    "width": 43.348,
+    "height": 20.769
+  },
+  "shots": {
+    "left": 49.889,
+    "top": 34.309,
+    "width": 43.792,
+    "height": 20.654
+  },
+  "vip": {
+    "left": 5.543,
+    "top": 55.651,
+    "width": 43.902,
+    "height": 22.375
+  },
+  "stranger": {
+    "left": 49.446,
+    "top": 55.709,
+    "width": 44.457,
+    "height": 22.318
+  },
+  "work": {
+    "left": 47.672,
+    "top": 90.361,
+    "width": 47.672,
+    "height": 8.606
+  },
+  "robot": {
+    "left": 3.991,
+    "top": 86.747,
+    "width": 39.024,
+    "height": 13.253
+  }
+}
